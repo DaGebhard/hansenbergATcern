@@ -12,3 +12,5 @@ After that we started to simulate instabilities in the Large Hadron Colider (LHC
 circular accelerator worldwide. 
 Step by step we approached the real situation in the machine as we added the damper and the octupole
 magnets to our machine model.
+
+We [presented our project](https://indico.cern.ch/event/685467/) at CERN.
